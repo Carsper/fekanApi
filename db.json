@@ -1,0 +1,305 @@
+{
+    "fekanbrief": [
+        {
+            "id": "1",
+            "brief": "FEKAN Howell & Associates is registered under business registration number BN- 8MC7RRGB to offer professional accounting and business advisory services focused on assisting business enterprises and organizations to thrive and grow to their purpose. Due to regulatory requirements, some of the consulting services are run through our associate, Howell Consulting Limited. We aspire to be the leading accounting firm offering audit, accountancy, and other financial and strategic management services. The firm’s clients include corporates and privately owned businesses as well as not-for-profit organizations and social enterprises. The firm offers services across a multitude of sectors including financial services manufacturing, energy, trading, agricultural, telecommunication, Not-for Profit, tourism, real estate & construction, County and National government Ministries, Departments and Agencies. We are dedicated to providing clients with exceptional value-adding and timely services. This commitment to being responsive keeps us connected and insightful in the business cycles of each of our clients."
+        }
+    ],
+    "corevalues": [
+        {
+            "id": "1",
+            "Professionalism": "Courtesy, Honesty and Responsibility drives our business."
+        },
+        {
+            "id": "2",
+            "Integrity": "We believe business thrives in an ethical environment."
+        },
+        {
+            "id": "3",
+            "Integrity": "We value our clients as business partners."
+        },
+        {
+            "id": "4",
+            "Integrity": "We work together to achieve common goals."
+        }
+    ],
+    "principle-officers": [
+        {
+            "id": "1",
+            "CPA-Nicholas-Kathiari": "is a partner at FEKAN Howell & Associates. He is a licensed practicing member of ICPAK, holding practice certificate number P/2523.  Nicholas is the Assurance leader and also coordinates our Corporate Finance Business. He has had a 23 years uninterrupted career in Ernst & Young, a big four accounting firm, where he rose from a trainee auditor to a Director in both assurance and advisory business service lines. Nicholas has solid experience in statutory audits and other assurance services in banking, insurance, Not-for-Profit Organizations, telecommunications utility and manufacturing sectors (including agro processing). He directed audit projects to ensure compliance with the International Financial Reporting Standards (IFRS), International Standards on Auditing (ISA), firm’s audit methodology and relevant policies and laws and regulations; and client relationship management."
+        },
+        {
+            "id": "2",
+            "CPA-Felix-Kariuki": "is partner at FEKAN Howell & Associates. He is a licensed practicing member of the Institute of Certified Public Accountants of Kenya (ICPAK) holding practice certificate number P/2526.  He has worked in audit at BDO, Ernst & Young and PSK & Associates to the level of an Associate Director. He had a 5-year experience as a CFO/Finance Director at Wananchi Business Services in between EY and PSK. He has a DNA of a client and a professional service provider. This blend makes him discern the urgency of a client’s service requirement with the responsive enthusiasm."
+        },
+        {
+            "id": "3",
+            "CPA-Patrick-Mwirigi": "is a partner at FEKAN Howell & Associates. He is a practicing and licensed member of the Institute of Certified Public Accountants of Kenya (ICPAK) holding practice certificate number P/2137. He is a 2015 recipient of ICPAK’s Commendation Certificate for services rendered to the accountancy profession in Kenya. He began his audit career at PwC Kenya as an external auditor and proceeded to the corporate sector to head internal audit and risk functions in premium organizations; TPS Serena Group and Simba Corp Group until he ventured into private accounting practice. He had a stint as Regional Finance Manager at Sight Savers International in between PwC and Serena. He was the former Managing Partner of MPK & Associates, Certified Public Accountants."
+        }
+    ],
+    "introSummary": [
+        {
+            "id": "1",
+            "summary": "Our Associates and staff comprise individuals with a rich skill set, who are qualified and experienced Certified Public Accountants (CPAs), Certified Internal Auditors, Information Communication and Technology experts (ICT), Certified Secretaries(CSs), Certified Investment and Financial Analysts (CIFA), Certified Fraud Examiners (CFEs),  Lawyers, Human Resource Professionals and trainers, with multidisciplinary  backgrounds ranging from Economics, Finance, Accounting, Business Administration, Actuarial Science and other social sciences."
+        }
+    ],
+    "serices": [
+        {
+            "id": "1",
+            "Title": "Auditing and Assurance Related Services",
+            "part1": "FEKAN Howell & Associates offers partner-led statutory audit and assurance services. During an audit, we aim to gain a real understanding of your business and the quality and effectiveness of your accounting and control systems. This means we focus on the risks of material misstatements in the financial statements. In addition to an audit, a range of other assurance services can be tailored to your needs. These include:",
+            "part2": {
+                "1": "Compliance Audits",
+                "2": "Limited reviews including agreed upon procedures",
+                "3": "Internal Audits",
+                "4": "Business Risk Assessment Service (BRS)",
+                "5": "Forensic Investigations",
+                "6": "Performance Audits",
+                "7": "Institutional and Grant Audits"
+            },
+            "part3": "Our audit and assurance services are on a technology-based platform. We apply data analytical tools to discern and predict relationships on your business numbers/client data to mine useful insights. This keeps us connected and insightful for a measurable commitment to our clients."
+        },
+        {
+            "id": "2",
+            "Title": "Tax Services",
+            "part1": "Aware that businesses are operating in a very dynamic and complex tax environment, at FEKAN Howell, our professionals help clients navigate through the challenges and address their needs. We advise and support clients in planning, compliance, reporting and in this sustain constructive relationships with tax authorities. Our clientele includes corporates, public sector bodies, not-for-profit organizations and individuals. Our Tax Services include:",
+            "part2": {
+                "1": "Business Tax Planning and   Annual Tax Compliance",
+                "2": "Personal Tax Planning and Compliance",
+                "3": "Transactional tax review and advise",
+                "4": "Tax health checks review and planning",
+                "5": "Payroll services"
+            },
+            "part3": "The above services are offered in the belief that tax obligations should be managed proactively and responsibly. This lays a foundation for sustainable growth."
+        },
+        {
+            "id": "3",
+            "Title": "Accounting Services",
+            "part1": "FEKAN Howell provides a full range of accounting and outsourcing services to help your business develop and grow both locally and regionally. A robust financial statement close process ensures timely and accurate financial information for strategic decision making. At FEKAN Howell we support our clients on this critical process. Our accounting services include:",
+            "part2": {
+                "1": "Preparation of financial statements in compliance with International Financial Reporting Standards (IFRS), IPSAS and local Country GAAP or other GAAP",
+                "2": "Outsourced book-keeping and payroll using modern accounting packages/applications",
+                "3": "Budgeting and business planning",
+                "4": "Management accounting"
+            },
+            "part3": "llldddd"
+        },
+        {
+            "id": "4",
+            "Title": "Corporate Finance",
+            "part1": "The complexities of business acquisitions and disposals demand specialist advice from experienced professionals accustomed to local requirements. Our members can help you to manage and expand your operations. FEKAN Howell offers:",
+            "part2": {
+                "1": "Capital raising support – both equity and debt",
+                "2": "Financial and tax due diligence",
+                "3": "Corporate valuation",
+                "4": "Structuring for partnerships and joint ventures"
+            },
+            "part3": ""
+        },
+        {
+            "id": "5",
+            "Title": "Trainings",
+            "part1": "",
+            "part2": {
+                "1": "IFRS and IPSAS trainings",
+                "2": "IT related trainings; Data analytics and visualization",
+                "3": "Industry specific trainings",
+                "4": "Corporate Governance",
+                "5": "Finance for Non-Finance Managers;"
+            },
+            "part3": ""
+        }
+    ],
+    "ourTeam": [
+        {
+            "id": "1",
+            "name": "Partner - Nicholas Kathiari",
+            "Profession": "Accounting",
+            "Qualification": "MBA,BCom, CPA, CPS & EIA",
+            "Experience": "23 Years",
+            "Brief": "Nicholas has vast knowledge in Assurance and Financial Advisory Services gained over a period spanning over 20 years at various levels of responsibility in his career at Ernst & Young, where he rose from a trainee auditor to a Director in Assurance and Transaction Advisory Services. From EY he left to form FEKAN Howell & Associates in August 2020. At FEKAN Howell, he leads assurance & corporate finance advisory assignments."
+        },
+        {
+            "id": "2",
+            "name": "Partner – Felix Kariuki",
+            "Profession": "Accounting",
+            "Qualification": "MBA,B.A, Economics, CPA, CPS, CISA & EIA",
+            "Experience": "24 Years",
+            "Brief": "Felix has over 20 years’ experience gathered over his career as a Senior Audit Manager at Ernst & Young and CFO/ Finance Director at Wananchi Group. During his career at the firms of Ernst & Young and PSK Associates he was the manager in charge of various assignments including recurrent audits, financial advisory, internal audits and forensic and detailed reviews in diverse sectors."
+        },
+        {
+            "id": "3",
+            "name": "Partner – Patrick Mwirigi",
+            "Profession": "Accounting",
+            "Qualification": "MBA,BCom, CPA and Executive Diploma in Corporate Governance.",
+            "Experience": "23 Years",
+            "Brief": "Patrick has over 20 years’ experience gained over his career as a General Manager (Internal Audit), at Simba Corporation and Head of Regional Audit team at TPS Serena Hotels Group, as Regional Finance Manager at Sight Savers and as Senior Associate at PwC Kenya. He has formerly practiced under MPK & Associates where he was Managing Partner."
+        },
+        {
+            "id": "4",
+            "name": "Tax Director – Robert Riitho",
+            "Profession": "Tax Expert",
+            "Qualification": "MBA,BCom,LLB-Dip Law, CPA & CPS",
+            "Experience": "18 Years",
+            "Brief": "Robert has vast experience and deep knowledge in tax legislation and Financial Advisory gained over a period of over 18 years in his career at Ernst & Young where he served as a Tax Consultant through to Tax Director. Robert is the tax director in charge of various tax assignments at FEKAN Howell."
+        },
+        {
+            "id": "5",
+            "name": "Systems Analyst – John Kabiru",
+            "Profession": "Systems Analyst",
+            "Qualification": "Bachelor of Science, Oracle Certified Professional",
+            "Experience": "20 Years",
+            "Brief": "John has over 20 years working experience in system analysis and design field, including implementing Enterprise Resource Planning Solutions across different industries."
+        },
+        {
+            "id": "6",
+            "name": "Audit Manager – Francis Njiru",
+            "Profession": "Assurance & Forensics",
+            "Qualification": "MBA, BCom, CPA, CFE, CEH",
+            "Experience": "8 Years",
+            "Brief": "Francis has over 8 years working experience in accountancy, audit, forensics and internal audit."
+        },
+        {
+            "id": "7",
+            "name": "Audit Manager – Bancy Nduati",
+            "Profession": "Assurance and Advisory",
+            "Qualification": "Actuarial Science, CPA",
+            "Experience": "6 Years",
+            "Brief": "Bancy has over six years working experience in audit and financial management field including accountancy, audit and financial advisory."
+        },
+        {
+            "id": "8",
+            "name": "Audit Manager – George Muniu",
+            "Profession": "Assurance and Advisory",
+            "Qualification": "BCom, CPA (K)",
+            "Experience": "12 Years",
+            "Brief": "George has over 12 years working experience in financial management field including accountancy, audit, Tax consultancy and financial analysis."
+        },
+        {
+            "id": "9",
+            "name": "Associate – Jane Onyata",
+            "Profession": "Assurance and Advisory",
+            "Qualification": "ACCA, BSc in Applied Accounting",
+            "Experience": "Over 12 Years",
+            "Brief": "Jane has over 12 years working experience in financial management field including accountancy, audit and financial advisory."
+        },
+        {
+            "id": "10",
+            "name": "Associate – Anne Karachi",
+            "Profession": "Assurance and Advisory",
+            "Qualification": "BBA, CPA",
+            "Experience": "Over 12 Years",
+            "Brief": "Anne has over 12 years’ experience gained as an Audit Senior and Assurance Associate at various audit firms and as an Internal Auditor at Kenya Women Holding (Recently rebranded to Echo Network Africa)."
+        },
+        {
+            "id": "11",
+            "name": "Associate – Ayub Kimemia",
+            "Profession": "Assurance and Advisory",
+            "Qualification": "BCom, CPA",
+            "Experience": "Over 23 Years",
+            "Brief": "Ayub’s career spans over 20 years, during which he has acquired wide experience at various levels of responsibility in Assurance, risk management and compliance reviews by serving as Internal Auditor and Risk Management Manager for AG Group and his assurance career at Ernst & Young of more than 15 years where he rose to the level of a Senior Audit Manager."
+        },
+        {
+            "id": "12",
+            "name": "Associate – Anne Kimari",
+            "Profession": "Risk Management Expert",
+            "Qualification": "MBA, BCom, FCCA",
+            "Experience": "Over 23 Years",
+            "Brief": "Anne is a financial and risk management expert with over 20 years of progressive experience in finance, audit, risk management, credit, corporate governance and microfinance in particular and general management experience locally and regionally."
+        }
+    ],
+    "ourClients": [
+        {
+            "name": "Leatherlife (EPZ) Limited (Statutory audit)",
+            "id": "1",
+            "category": "Private"
+        },
+        {
+            "name": "Simcorp SACCO Society Limited (Statutory audit)",
+            "id": "2",
+            "category": "Private"
+        },
+        {
+            "name": "Jeanspark Management Company Limited (Statutory audit)",
+            "id": "3",
+            "category": "Private"
+        },
+        {
+            "name": "ChemAgro International Limited (Accounting services)",
+            "id": "4",
+            "category": "Private"
+        },
+        {
+            "name": "Five Senses Restaurant (Accounting services)",
+            "id": "5",
+            "category": "Private"
+        },
+        {
+            "name": "African Braille Centre - Statutory audit",
+            "id": "6",
+            "category": "Not-for-Profit"
+        },
+        {
+            "name": "ACDI/VOCA – training of CBOs in basic record keeping and accounts maintenance",
+            "id": "7",
+            "category": "Not-for-Profit"
+        },
+        {
+            "name": "ACDI/VOCA – provision of professional services in preparing financial statements for its annual activities from 2004 to 2011, in conformity with local statutory requirements.",
+            "id": "8",
+            "category": "Not-for-Profit"
+        },
+        {
+            "name": "Thorntree Dev. (Watamu) Limited - Accounting services and tax health check",
+            "id": "9",
+            "category": "Real-Estate"
+        },
+        {
+            "name": "Thorntree Properties Limited – Accounting services and tax health check",
+            "id": "10",
+            "category": "Real-Estate"
+        },
+        {
+            "name": "Palm Capital Limited – Accounting services",
+            "id": "11",
+            "category": "Real-Estate"
+        },
+        {
+            "name": "Acacia Capital Ventures Limited – Accounting services",
+            "id": "12",
+            "category": "Real-Estate"
+        }
+    ],
+    "consultance": [
+        {
+            "category": "oilGas",
+            "id": "13",
+            "name": "Asia Africa Energy(AAE)",
+            "comp-brief": "a London based subsidiary of Berlanga Holding Bv, an international oil and gas company with its headquarters in Netherlands. Service rendered: Market entry strategies and advisory services; Report completed and enabled company to seek a strategic partner with a leading Pan African infrastructural and civil engineering conglomerate."
+        },
+        {
+            "category": "oilGas",
+            "id": "14",
+            "name": "East African Recruiting Services Limited",
+            "comp-brief": "the local subsidiary of a South African firm EmployAfrica specializing in recruitment services for the Energy sector. Service rendered: Market entry strategies and advisory on formation of a joint venture for the provision of recruitment services for oil and gas contract staff across the East African region as well as for the setting up of a specialised school for the training of technicians for the oil &gas industry e.g. welders and fabricators."
+        },
+        {
+            "category": "oilGas",
+            "id": "15",
+            "name": "OGAS Solutions (A SeaOwl company)",
+            "comp-brief": "Service rendered: Registration and obtaining local licenses for Kenyan Subsidiary – Ogas Kenya Solutions Limited."
+        },
+        {
+            "category": "Education",
+            "id": "16",
+            "name": "Victoriya School of Service",
+            "comp-brief": "Preparing a business and investment plan for setting up a Hospitality School in Nairobi."
+        },
+        {
+            "category": "Education",
+            "id": "17",
+            "name": "Joyka Academy",
+            "comp-brief": "Preparing a business and investment plan for setting up an ECED Centre in Meru County."
+        }
+    ]
+}
